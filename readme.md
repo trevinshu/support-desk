@@ -10,8 +10,6 @@ Full Stack (Frontend and Backend) Support Desk Application built with the MERN (
 
 ## Live Link
 
-https://house-marketplace-firebase-react-trevin.vercel.app/
-
 ## Languages, Tools, Techniques & Packages Used
 
 - React
